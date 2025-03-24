@@ -34,8 +34,8 @@ This Power BI dashboard provides a comprehensive analysis of **Automotive Produc
 - <a href="https://github.com/priti7540/Automotive-ProductLine-Sales-Performance-Dashboard/blob/main/Automotive%20Product%20Line%20Sales%20Analysis(Page%203).png">View Dashboard</a>
 - <a href="https://github.com/priti7540/Automotive-ProductLine-Sales-Performance-Dashboard/blob/main/Automotive%20Product%20Line%20Sales%20Analysis(Page%205).png">View Dashboard</a>
 - <a href="https://github.com/priti7540/Automotive-ProductLine-Sales-Performance-Dashboard/blob/main/Automotive%20Product%20Line%20Sales%20Analysis(page%204).png">View Dashboard</a>
-- <a href="https://github.com/priti7540/Automotive-ProductLine-Sales-Performance-Dashboard/blob/main/Automotive%20Product%20Line%20Sales%20Analysis(scatter%20chart).png">View Scattter chart</a>
-- <a href="https://github.com/priti7540/Automotive-ProductLine-Sales-Performance-Dashboard/blob/main/Tooltip%20(Automotive%20Product%20Line%20Sales%20Analysis).png">BVire Tooltip</a>
+- <a href="https://github.com/priti7540/Automotive-ProductLine-Sales-Performance-Dashboard/blob/main/Automotive%20Product%20Line%20Sales%20Analysis(scatter%20chart).png">View Scatter chart</a>
+- <a href="https://github.com/priti7540/Automotive-ProductLine-Sales-Performance-Dashboard/blob/main/Tooltip%20(Automotive%20Product%20Line%20Sales%20Analysis).png">View Tooltip</a>
 
 ## 📈 Business Insights
 - **Classic Cars** lead the sales with **$3.9M** in revenue.
